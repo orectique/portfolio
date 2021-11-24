@@ -30,8 +30,8 @@ const Overview = () => {
 
     {
       content: {
-        title: "https://docs.google.com/document/d/e/2PACX-1vTfX7UVd5syPlPJ2Yd9Yi3aCj6BX6020oVFGq33JzKszgWWwOMjjfvvfm7orPSRFxPI3NeWNvCld4f_/pub",
-        link: "https://github.com/orectique/portfolio/Sreehari-CV.pdf",
+        title: "",
+        link: "https://docs.google.com/document/d/e/2PACX-1vTfX7UVd5syPlPJ2Yd9Yi3aCj6BX6020oVFGq33JzKszgWWwOMjjfvvfm7orPSRFxPI3NeWNvCld4f_/pub",
         status: "",
         description: "Complete CV",
         stacks: [""],
