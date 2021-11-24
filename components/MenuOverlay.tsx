@@ -25,8 +25,11 @@ export const MenuOverlay = ({ menuState, setMenuState }) => {
           <Link href="/">
             <a className="text-6xl my-3 cursor-pointer">About</a>
           </Link>
+          <Link href="/academic">
+            <a className="text-6xl my-3 cursor-pointer">Academics</a>
+          </Link>
           <Link href="/overview">
-            <a className="text-6xl my-3 cursor-pointer">Works</a>
+            <a className="text-6xl my-3 cursor-pointer">Some Works</a>
           </Link>
         </div>
       </div>
