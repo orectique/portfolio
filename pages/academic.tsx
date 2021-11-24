@@ -20,7 +20,7 @@ const Overview = () => {
     {
       content: {
         title: "Research",
-        link: "",
+        link: "https://unrest-mapping.herokuapp.com",
         status: "Internship",
         description: "Study of time series data under Dr. Peter J. Kempthorne (MIT)",
         stacks: ["Quantification of Protest"],
@@ -30,7 +30,7 @@ const Overview = () => {
 
     {
       content: {
-        title: "",
+        title: "https://docs.google.com/document/d/e/2PACX-1vTfX7UVd5syPlPJ2Yd9Yi3aCj6BX6020oVFGq33JzKszgWWwOMjjfvvfm7orPSRFxPI3NeWNvCld4f_/pub",
         link: "https://github.com/orectique/portfolio/Sreehari-CV.pdf",
         status: "",
         description: "Complete CV",
