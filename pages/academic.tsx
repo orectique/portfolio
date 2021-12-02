@@ -23,7 +23,7 @@ const Overview = () => {
         link: "https://unrest-mapping.herokuapp.com",
         status: "Internship",
         description: "Study of time series data under Dr. Peter J. Kempthorne (MIT)",
-        stacks: ["Quantification of Protest"],
+        stacks: ["Quantification of Protest", "Joint paper under review"],
 
       },
     },
